@@ -382,7 +382,7 @@ class CywallearnSET:
 
     def _sms_bomber(self, bomber_instance=None):
         """Placeholder for SMS bomber"""
-        print(f"\n{Y}[*] SMS Bomber
+        print(f"\n{Y}[*] SMS Bomber")
 def _sms_bomber(self, bomber_instance=None):
         """Placeholder for SMS bomber"""
         print(f"\n{Y}[*] SMS Bomber (Demo) - Not yet implemented{N}")
